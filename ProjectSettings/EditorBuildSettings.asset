@@ -15,6 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ShowRoles.unity
     guid: 0e6caf444e76e2741b17b49466c83d44
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2ad479e4c2de86940951b0e1ec54a430, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 4b9691ac8d1714e4daa0cf0ee1a4dde9, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: 5aef6c988b4d63e45952fe4a9ab2ddd7, type: 2}
   m_UseUCBPForAssetBundles: 0

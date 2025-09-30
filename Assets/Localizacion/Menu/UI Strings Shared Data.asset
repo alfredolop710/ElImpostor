@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Strings Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI Strings
+  m_TableCollectionNameGuidString: ce30cb5a4b9ea424da0eafbc9381730b
+  m_Entries:
+  - m_Id: 1605410934784
+    m_Key: TextoJugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23929434591232
+    m_Key: TextAgregarJugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24594969972736
+    m_Key: TextoImpostores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26176910446592
+    m_Key: TextTema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26347970940928
+    m_Key: TextAleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26509904629760
+    m_Key: TextGenerarJugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26791526977536
+    m_Key: TextPantallaJugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27204355543040
+    m_Key: TextErrorImpostores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28120253124608
+    m_Key: TextoComoJugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28328554844160
+    m_Key: TextoInstrucciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30599057428480
+    m_Key: TextoComenzarJuego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30739671470080
+    m_Key: TextoBotonAtras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31446600437760
+    m_Key: TextoNombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31772040679424
+    m_Key: TextoVolverJugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31894350778368
+    m_Key: TextoVolverMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32092053491712
+    m_Key: TextoPregunta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32353203441664
+    m_Key: TextoMismosAjustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32516013740032
+    m_Key: TextoOtroTema
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3872819205138809048
+  references:
+    version: 2
+    RefIds:
+    - rid: 3872819205138809048
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758898148666
