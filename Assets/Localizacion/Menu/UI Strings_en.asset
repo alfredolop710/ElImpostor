@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Strings_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ce30cb5a4b9ea424da0eafbc9381730b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1605410934784
+    m_Localized: Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23929434591232
+    m_Localized: Add Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24594969972736
+    m_Localized: Impostors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26176910446592
+    m_Localized: Choose a Topic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26347970940928
+    m_Localized: Random Topic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26509904629760
+    m_Localized: Generate Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26791526977536
+    m_Localized: Go to players screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27204355543040
+    m_Localized: The number of impostors cannot be less than 1 nor greater than the
+      number of players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28120253124608
+    m_Localized: How to Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28328554844160
+    m_Localized: 'A game to play in real life with your friends or family.
+
+      There
+      are two roles: the local role and the impostor role.
+
+      If you are the
+      local, your goal is to discover who the impostor is.
+
+      If you are the
+      impostor, your goal is to hide well so you don''t get caught and try to guess
+      the word.
+
+      The way to play is to say a word that is related to the secret
+      word, trying not to make it too obvious so that the impostor or impostors don''t
+      guess what the word is.
+
+      Depending on the number of players, you can
+      play several rounds, in which the final card tells you who starts, and you
+      continue clockwise. When each player in the round has said a word, everyone
+      votes on who the impostor might be.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30599057428480
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30739671470080
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31446600437760
+    m_Localized: 'The players have already been added. Tap the screen to display
+      the player and tap again to display the role.
+
+      Remember not to reveal
+      your role to others.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31772040679424
+    m_Localized: Play Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31894350778368
+    m_Localized: Back to Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32092053491712
+    m_Localized: Do you want to play again with the same settings or with a different
+      topic?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32353203441664
+    m_Localized: Same Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32516013740032
+    m_Localized: Another Topic
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

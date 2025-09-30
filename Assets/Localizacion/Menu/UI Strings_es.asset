@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Strings_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: ce30cb5a4b9ea424da0eafbc9381730b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1605410934784
+    m_Localized: Jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23929434591232
+    m_Localized: Agregar Jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24594969972736
+    m_Localized: Impostores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26176910446592
+    m_Localized: Elige un Tema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26347970940928
+    m_Localized: Tema Aleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26509904629760
+    m_Localized: Generar Jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26791526977536
+    m_Localized: Pasar a pantalla jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27204355543040
+    m_Localized: El numero de impostores no puede ser menor que 1 ni mayor que el
+      numero de jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28120253124608
+    m_Localized: Como Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28328554844160
+    m_Localized: "Un juego para jugar en la vida real con tus amigos o con tu familia.\nExisten
+      2 roles: el rol local y el rol de impostor.\nSi eres el local tu objetivo es
+      descubrir quien es el impostor.\nSi eres el impostor tu objetivo es disimular
+      bien para que no te pillen e intentar adivinar la palabra.\nLa manera de jugar
+      es decir una palabra que est\xE9 relacionada con la palabra secreta, intentando
+      que no sea muy obvia para que el impostor o impostores no adivinen cual es
+      la palabra.\nDependiendo del n\xFAmero de jugadores se puede hacer a varias
+      rondas, en la cual la carta final te dice quien empieza y se sigue con el sentido
+      de las agujas del reloj y cuando hayan dicho una palabra cada uno de los jugadores
+      de la ronda, se procede a votar entre todos quien puede ser el impostor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30599057428480
+    m_Localized: Comenzar Juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30739671470080
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31446600437760
+    m_Localized: "Ya se han agregado los jugadores, pulsa la pantalla para mostrar
+      al jugador y vuelve a pulsarla para mostrar el rol.\nRecuerda no revelar tu
+      rol a los dem\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31772040679424
+    m_Localized: Volver a Jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31894350778368
+    m_Localized: "Volver al Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32092053491712
+    m_Localized: "\xBFQuieres volver a jugar con los mismos ajustes o con otro tema?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32353203441664
+    m_Localized: Mismos Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32516013740032
+    m_Localized: Otro Tema
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DropdownOptions Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: DropdownOptions
+  m_TableCollectionNameGuidString: 2986ce071da104b4781bdefebb3f305e
+  m_Entries:
+  - m_Id: 197085286400
+    m_Key: Tema1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269856460800
+    m_Key: Tema2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 352433917952
+    m_Key: Tema3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 467626283008
+    m_Key: Tema4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 544264605696
+    m_Key: Tema5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059018952704
+    m_Key: Tema6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1118716481536
+    m_Key: Tema7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1196126556160
+    m_Key: Tema8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1301856571392
+    m_Key: Tema9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1603225702400
+    m_Key: Tema10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1809367355392
+    m_Key: Tema11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1870935543808
+    m_Key: Tema12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1950157557760
+    m_Key: Tema13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2135109586944
+    m_Key: Tema14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2220476256256
+    m_Key: Tema15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2546189127680
+    m_Key: Tema16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3129734254592
+    m_Key: Tema17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3708489486336
+    m_Key: Tema18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3773677359104
+    m_Key: Tema19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3946281357312
+    m_Key: Tema20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4035938799616
+    m_Key: Tema21
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3872819205138809131
+  references:
+    version: 2
+    RefIds:
+    - rid: 3872819205138809131
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758909618747
